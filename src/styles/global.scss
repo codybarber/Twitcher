@@ -1,0 +1,22 @@
+// .full-screen {
+//   min-height: 100vh;
+//   overflow-x: hide;
+// }
+
+// .half-screen {
+//   min-height: 50vh;
+// }
+
+// .third-screen {
+//   min-height: 33vh;
+// }
+
+// .quarter-screen {
+//   min-height: 25vh
+// }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+}
